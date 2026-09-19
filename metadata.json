@@ -1,0 +1,6 @@
+{
+  "name": "CloudVault - Cloud File Storage",
+  "description": "Production-grade cloud file storage system with S3 object storage compatibility, multipart uploads, expiring pre-signed URLs, storage metrics, and rich previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
