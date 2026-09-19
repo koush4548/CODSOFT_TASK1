@@ -22,7 +22,7 @@ Design System: Clean white minimalist UI
 
 💻 Getting Started
 Clone the repository:
-git clone https://github.com//CODSOFT_TASK1.git
+git clone https://github.com/koush4548/CODSOFT_TASK1.git
 cd CODSOFT_TASK1
 
 Install dependencies:
